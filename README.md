@@ -13,7 +13,7 @@ From [MDN](https://developer.mozilla.org/en-US/docs/Games/Tutorials/2D_Breakout_
 * Create Target logo from arcs
 * Create rainbow from half arcs
 
-###Stretch Challenges Completed:
+### Stretch Challenges Completed:
 * Resize bricks
 * Stagger bricks
 * Refactor to OOP
