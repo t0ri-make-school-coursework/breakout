@@ -19,5 +19,6 @@ From [MDN](https://developer.mozilla.org/en-US/docs/Games/Tutorials/2D_Breakout_
 * Refactor to OOP
 
 ### To Do:
-* Separate classes into different files (in progress: view Separation branch)
+* Separate classes into different files *(in progress: view Separation branch)*
 * Improve collision detection
+* Improve alerts
